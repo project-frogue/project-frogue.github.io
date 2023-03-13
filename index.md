@@ -6,6 +6,6 @@ Actualmente estamos buscando los recursos humanos que mejor se adapten a nuestra
 
 ## Proyectos planeados
 
-  * project-survive: Juego 2d estilo supervivencia en un pequeño mapa. Tendremos que evitar que los enemigos destuyan una serie de puntos clave ya que esto hará que se nos complique más la partida.
+  * **project-survive**: Juego 2d estilo supervivencia en un pequeño mapa. Tendremos que evitar que los enemigos destuyan una serie de puntos clave ya que esto hará que se nos complique más la partida.
   * Por determinar ...
   * Por determinar ...
