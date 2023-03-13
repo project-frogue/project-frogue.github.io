@@ -1,2 +1,1 @@
-# This is the Project Frogue first Index page.
-Hello world
+Este es el texto por defecto.
