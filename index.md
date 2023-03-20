@@ -25,7 +25,7 @@ El programador se encaragará de constituir la base del juego, de principio a fi
 
 El artista se encargará de toda la parte visual, creará todos los sprites para personajes y escenarios, animaciones, se encargará de llevar un estilo visual coherente para todo el juego, del aspecto de la interfaz de usuario, partículas y deberá de coordinarse con la persona de márketing para la creación o adaptación de los assets creados para el videojuego en las redes entre otras cosas.
 
-La persona encargada del marketing se hará cargo de todo lo relacionado con la difusión del proyecto y la imágen de la empresa.
+La persona encargada del marketing se hará cargo de todo lo relacionado con la difusión del proyecto y la imágen del estudio.
 Esto no implica solo las redes o páginas específicas de las plataformas de distribución como [Steam](https://store.steampowered.com/) o [Google Play](https://play.google.com/store/games), sino que previamente habrá un estudio de los medios para establecer las mejores vías de difusión.
 
 
@@ -37,11 +37,11 @@ Esto tiene varias implicaciones lógicas, hay que tener claro que **no** se reci
 
 Hay que tener claro que es extremadamente difícil llegar desde zero y sacar a la luz un juego con beneficios altos. Por eso mismo seguimos una estrategia inicial de sacar varios juegos pequeños, entre otras cosas para darnos a conocer y aprender de los errores que podamos comenter.
 
-Algunas consideraciones.
+#### Algunas consideraciones.
 
 * **A.** Cada miembro del equipo recibirá entre un 20% y un 25% de los beneficios del proyecto. Este porcentaje dependerá de la antiguedad o la carga de trabajo que tenga esa persona para el proyecto en concreto.
 
-* **B.** Los proyectos tendrán una fecha límite en la que terminarán. Un proyecto solo podrá durar más si todos miembros están de acuerdo en extender esta fecha.
+* **B.** Los proyectos tendrán una fecha límite en la que terminarán. Un proyecto solo podrá durar más si todos los miembros están de acuerdo en extender esta fecha.
 
 * **C.** Antes de empezar con cualquier proyecto se establecerá un tiempo de duración. Si algún miembro abandona el proyecto antes de lo previsto no recibirá el porcentaje de beneficios pactado. Dependiendo del caso, duración y trabajo desempeñado, esta persona podrá seguir optando a un porcentaje aunque menor.
 
@@ -58,7 +58,7 @@ Dejamos también el por qué de algunas decisiones.
 
 * **A.** Hay partes del desarrollo que no puden ser cubiertas por los integrantes del equipo como por ejemplo los sonidos o la música. Para estos detalles habrá que invertir algo de dinero, que obviamente saldrá del estudio.
 
-* **A.** El porcentaje que queda sirve de colchón para pagos como los mencionados o relacionados con aspectos legales, que aunque no lo parezca, es bastante complejo.
+* **A.** El porcentaje que queda sirve de colchón para pagos como los mencionados o relacionados con aspectos legales, que aunque no lo parezca, son bastante complejos.
 
 * **A.** Si todo va bien, este colchón, puede servir para pagos fijos y seguros en un futuro a los miembros para que no dependan solo de la viabilidad del proyecto.
 
@@ -66,11 +66,11 @@ Dejamos también el por qué de algunas decisiones.
 
 * **B.** Si por el contrario el proyecto parece que no va bien, no queremos entrar en una espiral sin fin, cortaremos por lo sano en la fecha establecida.
 
-* **C.** Que alguien deja el proyecto a medias es malo para todos los integrantes, además cambia bastante la forma de repartir beneficios. Como medida preventiva, por tanto se privará de su porcentaje a la persona que abandone. No obstante, entendemos que pueden existir causas de abandono entendibles y tampoco es justo dejar a esta persona sin nada cuando si que ha estado trabajando. Por eso mismo, dejamos la puerta abierta a un porcentaje reducido.
+* **C.** Que alguien deja el proyecto a medias es malo para todos los integrantes, además cambia bastante la forma de repartir beneficios. Como medida preventiva, por tanto se privará de su porcentaje a la persona que abandone. No obstante, entendemos que pueden existir causas de abandono entendibles y tampoco es justo dejar a esta persona sin nada cuando sí que ha estado trabajando. Por eso mismo, dejamos la puerta abierta a un porcentaje reducido.
 
 * **D.** Al no haber un sueldo base fijo, se puede estar compatibilizando esto con algún otro trabajo. Las horas dedicadas permitirán por tanto esto.
 
-* **E.** Si es otro personal distinto el que trabaja en las actualizaciones, los miembros originales seguirán manteniendo el porcentaje obvimente. El porcentaje de estos otros saldrá del colchón de la empresa.
+* **E.** Si es otro personal distinto el que trabaja en las actualizaciones, los miembros originales seguirán manteniendo el porcentaje. El porcentaje de este otro equipo saldrá del colchón del estudio.
 
 
 
