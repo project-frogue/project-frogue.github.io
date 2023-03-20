@@ -49,6 +49,7 @@ Hay que tener claro que es extremadamente difícil llegar desde zero y sacar a l
 
 * **E.** A veces un juego no termina con el desarrollo, si todo va bien probablemente querramos añadir actualizaciones o mejoras. Gracias al modelo rev-share, al trabajar en actualizaciones estaremos directamente haciando aumentar nuestros propios beneficios.
 
+* **F.** Para garantizar o medir que la cantidad de trabajo entre compañeros sea parecida se puede hacer uso de programas del estilo de [Manic Time](https://www.manictime.com/).
 
 > Es normal que surjan muchas dudas con respecto a esto, hemos estado trabajando para que esté todo atado pero es complicado plasmar absolutamente todo en esta mini web. Para cualquier duda o caso específico lo mejo será contactar con nosotros.
 
@@ -72,6 +73,7 @@ Dejamos también el por qué de algunas decisiones.
 
 * **E.** Si es otro personal distinto el que trabaja en las actualizaciones, los miembros originales seguirán manteniendo el porcentaje. El porcentaje de este otro equipo saldrá del colchón del estudio.
 
+* **F.** Aunque en principio nos basaremos en la confianza y transparencia, ante cualquier duda, para garantizar la integridad de los porcentajes y las cargas de trabajo, podemos recurrir a programas de registro del tiempo. Esta claramente no es nustra idea pero aunque no podemos y no vamos a exigir unas horas de trabajo diario, no es justo tampoco que un compañero trabaje menos empeorando el proyecto y además le toque el mismo porcentaje que quien lo ha sacado adelante.
 
 
 
