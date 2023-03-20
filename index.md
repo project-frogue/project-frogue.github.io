@@ -39,38 +39,38 @@ Hay que tener claro que es extremadamente difícil llegar desde zero y sacar a l
 
 Algunas consideraciones.
 
-1. Cada miembro del equipo recibirá entre un 20% y un 25% de los beneficios del proyecto. Este porcentaje dependerá de la antiguedad o la carga de trabajo que tenga esa persona para el proyecto en concreto.
+* **A.** Cada miembro del equipo recibirá entre un 20% y un 25% de los beneficios del proyecto. Este porcentaje dependerá de la antiguedad o la carga de trabajo que tenga esa persona para el proyecto en concreto.
 
-3. Los proyectos tendrán una fecha límite en la que terminarán. Un proyecto solo podrá durar más si todos miembros están de acuerdo en extender esta fecha.
+* **B.** Los proyectos tendrán una fecha límite en la que terminarán. Un proyecto solo podrá durar más si todos miembros están de acuerdo en extender esta fecha.
 
-2. Antes de empezar con cualquier proyecto se establecerá un tiempo de duración. Si algún miembro abandona el proyecto antes de lo previsto no recibirá el porcentaje de beneficios pactado. Dependiendo del caso, duración y trabajo desempeñado, esta persona podrá seguir optando a un porcentaje aunque menor.
+* **C.** Antes de empezar con cualquier proyecto se establecerá un tiempo de duración. Si algún miembro abandona el proyecto antes de lo previsto no recibirá el porcentaje de beneficios pactado. Dependiendo del caso, duración y trabajo desempeñado, esta persona podrá seguir optando a un porcentaje aunque menor.
 
-4. El tiempo dedicado al proyecto será de entre 2 y 4 horas diarias.
+* **D.** El tiempo dedicado al proyecto será de entre 2 y 4 horas diarias.
 
-5. A veces un juego no termina con el desarrollo, si todo va bien probablemente querramos añadir actualizaciones o mejoras. Gracias al modelo rev-share, al trabajar en actualizaciones estaremos directamente haciando aumentar nuestros propios beneficios.
+* **E.** A veces un juego no termina con el desarrollo, si todo va bien probablemente querramos añadir actualizaciones o mejoras. Gracias al modelo rev-share, al trabajar en actualizaciones estaremos directamente haciando aumentar nuestros propios beneficios.
 
 
 > Es normal que surjan muchas dudas con respecto a esto, hemos estado trabajando para que esté todo atado pero es complicado plasmar absolutamente todo en esta mini web. Para cualquier duda o caso específico lo mejo será contactar con nosotros.
 
 Dejamos también el por qué de algunas decisiones.
 
-> Los números están relacionados con los puntos anteriores.
+> Las letras están relacionados con los puntos anteriores.
 
-1. Hay partes del desarrollo que no puden ser cubiertas por los integrantes del equipo como por ejemplo los sonidos o la música. Para estos detalles habrá que invertir algo de dinero, que obviamente saldrá del estudio.
+* **A.** Hay partes del desarrollo que no puden ser cubiertas por los integrantes del equipo como por ejemplo los sonidos o la música. Para estos detalles habrá que invertir algo de dinero, que obviamente saldrá del estudio.
 
-1. El porcentaje que queda sirve de colchón para pagos como los mencionados o relacionados con aspectos legales, que aunque no lo parezca, es bastante complejo.
+* **A.** El porcentaje que queda sirve de colchón para pagos como los mencionados o relacionados con aspectos legales, que aunque no lo parezca, es bastante complejo.
 
-1. Si todo va bien, este colchón, puede servir para pagos fijos y seguros en un futuro a los miembros para que no dependan solo de la viabilidad del proyecto.
+* **A.** Si todo va bien, este colchón, puede servir para pagos fijos y seguros en un futuro a los miembros para que no dependan solo de la viabilidad del proyecto.
 
-2. Un proyecto debe tener una fecha límite, no porque tenga que ver la luz en esa fecha necesariamente pero no se puede estar continuamente alargando el proyecto ya que recordemos que no hay un sueldo base de por medio. Se alargará por tanto si todos los miembros están de acuerdo. Esto puede pasar porque se haya sobreestimado la capacidad de trabajo, porque puedan quedar algunos detalles por pulir o porque queremos añadir mejoras debido a que el proyecto está yendo bien.
+* **B.** Un proyecto debe tener una fecha límite, no porque tenga que ver la luz en esa fecha necesariamente pero no se puede estar continuamente alargando el proyecto ya que recordemos que no hay un sueldo base de por medio. Se alargará por tanto si todos los miembros están de acuerdo. Esto puede pasar porque se haya sobreestimado la capacidad de trabajo, porque puedan quedar algunos detalles por pulir o porque queremos añadir mejoras debido a que el proyecto está yendo bien.
 
-2. Si por el contrario el proyecto parece que no va bien, no queremos entrar en una espiral sin fin, cortaremos por lo sano en la fecha establecida.
+* **B.** Si por el contrario el proyecto parece que no va bien, no queremos entrar en una espiral sin fin, cortaremos por lo sano en la fecha establecida.
 
-3. Que alguien deja el proyecto a medias es malo para todos los integrantes, además cambia bastante la forma de repartir beneficios. Como medida preventiva, por tanto se privará de su porcentaje a la persona que abandone. No obstante, entendemos que pueden existir causas de abandono entendibles y tampoco es justo dejar a esta persona sin nada cuando si que ha estado trabajando. Por eso mismo, dejamos la puerta abierta a un porcentaje reducido.
+* **C.** Que alguien deja el proyecto a medias es malo para todos los integrantes, además cambia bastante la forma de repartir beneficios. Como medida preventiva, por tanto se privará de su porcentaje a la persona que abandone. No obstante, entendemos que pueden existir causas de abandono entendibles y tampoco es justo dejar a esta persona sin nada cuando si que ha estado trabajando. Por eso mismo, dejamos la puerta abierta a un porcentaje reducido.
 
-4. Al no haber un sueldo base fijo, se puede estar compatibilizando esto con algún otro trabajo. Las horas dedicadas permitirán por tanto esto.
+* **D.** Al no haber un sueldo base fijo, se puede estar compatibilizando esto con algún otro trabajo. Las horas dedicadas permitirán por tanto esto.
 
-5. Si es otro personal distinto el que trabaja en las actualizaciones, los miembros originales seguirán manteniendo el porcentaje obvimente. El porcentaje de estos otros saldrá del colchón de la empresa.
+* **E.** Si es otro personal distinto el que trabaja en las actualizaciones, los miembros originales seguirán manteniendo el porcentaje obvimente. El porcentaje de estos otros saldrá del colchón de la empresa.
 
 
 
