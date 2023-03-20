@@ -77,7 +77,7 @@ Dejamos también el por qué de algunas decisiones.
 
 ## Scrum
 
-Utilizaremos la metodología [Scrum](https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_software)) para organizar al equipo. Con esta metodología, a parte de quitarnos de encima reuniones innecesariamente largas, podemos adaptar en cualquier momento ell rumbo que toma el proyecto. Esto es imortante para adaptarse al feedback de los usuarios.
+Utilizaremos la metodología [Scrum](https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_software)) para organizar al equipo. Con esta metodología, a parte de quitarnos de encima reuniones innecesariamente largas, podemos adaptar en cualquier momento el rumbo que toma el proyecto. Esto es imortante para adaptarse al feedback de los usuarios.
 
 ## Proyectos planeados
 
