@@ -75,7 +75,9 @@ Dejamos también el por qué de algunas decisiones.
 
 * **F.** Aunque en principio nos basaremos en la confianza y transparencia, ante cualquier duda, para garantizar la integridad de los porcentajes y las cargas de trabajo, podemos recurrir a programas de registro del tiempo. Esta claramente no es nustra idea pero aunque no podemos y no vamos a exigir unas horas de trabajo diario, no es justo tampoco que un compañero trabaje menos empeorando el proyecto y además le toque el mismo porcentaje que quien lo ha sacado adelante.
 
+## Scrum
 
+Utilizaremos la metodología [Scrum](https://es.wikipedia.org/wiki/Scrum_(desarrollo_de_software)) para organizar al equipo. Con esta metodología, a parte de quitarnos de encima reuniones innecesariamente largas, podemos adaptar en cualquier momento ell rumbo que toma el proyecto. Esto es imortante para adaptarse al feedback de los usuarios.
 
 ## Proyectos planeados
 
